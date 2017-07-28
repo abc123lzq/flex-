@@ -34,3 +34,11 @@
         flex-direction: column-reverse;
  }
 ```
+当然这文件作为公用的，你自己的导入它就可以
+
+```
+@import 'flexbox';
+
+//开始书写你的样式
+
+```
